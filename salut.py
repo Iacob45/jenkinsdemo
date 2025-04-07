@@ -1,2 +1,1 @@
-date = input("da ceva")
-print(date)
+print("Salut din jenkinsdemo si Python")
