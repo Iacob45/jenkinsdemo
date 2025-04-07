@@ -1,1 +1,2 @@
-print("Salut din jenkinsdemo si Python")
+date = input("da ceva")
+print(date)
